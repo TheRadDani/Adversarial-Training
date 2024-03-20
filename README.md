@@ -1,4 +1,4 @@
 # Adversarial-Training
 
-![Alt text](./images/your-image-name.jpg)
+![Alt text](./images/Adversarial_Training.png)
 
